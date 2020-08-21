@@ -26,6 +26,7 @@ Boolean addition;
         b4=findViewById(R.id.button4);
         b5=findViewById(R.id.button5);
         b6=findViewById(R.id.button6);
+        b7=findViewById(R.id.button7);
         add=findViewById(R.id.add);
         sub=findViewById(R.id.sub);
     }
